@@ -1,6 +1,6 @@
 <!--Level 1: Simple bio and stats -->
   
-### Hi, I'm Rajiv!
+### 👋 Hi, I'm Rajiv!
 
 🙋‍♂️Software Engineer sharing about my journey and learnings in tech<br/> 
 👨‍🎓Studied [Computer-Science](link) at NIST,ODISHA</br> 
