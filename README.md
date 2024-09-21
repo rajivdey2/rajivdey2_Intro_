@@ -1,16 +1,25 @@
-## Hi there 👋
+ <1- Level 1: Simple bio and stats -->
 
-<!--
-**rajivdey2/rajivdey2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Hi, I'm Magdeline!
 
-Here are some ideas to get you started:
+Spaces
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Commit changes...
+
+Soft wrap.
+
+Software Engineer sharing about my journey and learnings in tech<br/>
+
+Studied [Computer Science](https://youtu.be/Dd 4zfmY-aA?si=3NnnJ-j5ls7johlv) at the University of Otago, New Zealand<br/>
+
+Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>
+
+#learninginpublic in my Idigital garden)(https://magdelinehuang.com/)<br/>
+
+Currently learning about data analytics and Idataviz) (https://pudding.cool/2018/08/pockets/)!<br/>
+
+<!-Github stats from https://github.com/anuraghazra/github-readme-stats ->>
+
+[![Magdeline's github stats](https://github-readme-stats.vercel.app/ari?username=xsol05&count private=true&show icons=true&theme=radicalahide rank=false)!
+
+[https://github.com/anuraghazra/github-readme-stats
