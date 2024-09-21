@@ -10,7 +10,7 @@
 🍁Currently learning about data analytics at [Freecodecamp](link)<br/> 
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Rajiv's Github stats](https://github-readme-stats.vercel.app/api?username=xsol05&count private=true&show icons=true&theme=radical&hide rank=false)]
+[![Rajiv's Github stats](https://github-readme-stats.vercel.app/api?username=rajivdey2&count private=true&show icons=true&theme=radical&hide rank=false)]
 (https://github.com/anuraghazra/github-readme-stats)
 
 
