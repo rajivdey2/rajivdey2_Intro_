@@ -9,4 +9,6 @@
 🍀#Enthusiastic learner <br/>
 🍁Currently learning about data analytics at [Freecodecamp](link)<br/> 
 
-<!—— GitHub stats from https://github.com/anuraghazra/github—readme—stats ——>
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+
+
