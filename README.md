@@ -3,7 +3,7 @@
 ### 👋 Hi, I'm Rajiv!
 
 🙋‍♂️Software Engineer sharing about my journey and learnings in tech<br/> 
-👨‍🎓Studing [Computer-Science](link)</br> 
+👨‍🎓Studying [Computer-Science](link)</br> 
 🧶Making videos about Computer Science, tech, and productivity on [YouTube](link)<br/> 
 🌞#Learninginpublic in my [Digital garden](link)<br/>
 🍀#Enthusiastic learner <br/>
